@@ -1,0 +1,4 @@
+r
+loadfile .\Build\OpenDPS.hex
+r
+q
